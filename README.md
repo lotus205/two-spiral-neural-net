@@ -1,7 +1,7 @@
 # Neural Network for Solving the Two-Spiral Problem
 This is a simple implementation of a neural network trained using different optimization algorithms in order to solve the twin-spiral problem. The two-spiral problem is a particularly difficult problem that requires separating two logistic spirals from one another [1] [2]. 
 
-*(Note: This project is still in-progress. A more comprehensive explanation of the theory and the implementation results for the various optimization algorithms will be linked here as a separate file for you to see.)*
+*(A more comprehensive explanation of the theory and the implementation results for the various optimization algorithms will be linked here as a separate documentation)*
 
 ### Files:
 1. **twin_spiral_vanilla.m** - the main file containing the neural network structure. From here, different functions are called. 
