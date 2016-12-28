@@ -48,7 +48,7 @@ Both PSO and DE have different parameters that one can experiment on. In this im
 
 ## Implementation Notes:
 ### Generalization Ability
-1. **Particle Swarm Optimization** (84.86%) 
+1. **Particle Swarm Optimization** (84.86%)  
 <img  src="http://i.imgur.com/POaz0v1.png" alt="Cost Function" width="400px"> <img src="http://i.imgur.com/YCLmiCE.gif" alt="PSO" width="400px">
 ![Generalization ability of PSO](http://i.imgur.com/JtMGhr8.png)  
 2. **Differential Evolution** *in-progress*  
