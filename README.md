@@ -1,7 +1,7 @@
 # Neural Network for Solving the Two-Spiral Problem
-This is a simple implementation of a 2-M-1 neural network trained using different optimization algorithms in order to solve the twin-spiral problem. The two-spiral problem is a particularly difficult problem that requires separating two logistic spirals from one another [1] [2]. 
+This is a simple implementation of a 2-M-1 neural network trained using different optimization algorithms in order to solve the two-spiral problem. The two-spiral problem is a particularly difficult problem that requires separating two logistic spirals from one another [1] [2]. 
 
-![Two Spiral Problem](http://i.imgur.com/AB14SHC.png)
+![Two Spiral Problem](http://i.imgur.com/AB14SHC.png)  
 
 ## Files Included:
 ### Neural Network: 
@@ -48,7 +48,8 @@ Both PSO and DE have different parameters that one can experiment on. In this im
 
 ## Implementation Notes:
 ### Generalization Ability
-1. **Particle Swarm Optimization** (84.86%)  
+1. **Particle Swarm Optimization** (84.86%) 
+<img  src="http://i.imgur.com/POaz0v1.png" alt="Cost Function" width="400px"> <img src="http://i.imgur.com/YCLmiCE.gif" alt="PSO" width="400px">
 ![Generalization ability of PSO](http://i.imgur.com/JtMGhr8.png)  
 2. **Differential Evolution** *in-progress*  
 3. **Minimize Nonlinear Conjugant Gradient** (100.00%)  
