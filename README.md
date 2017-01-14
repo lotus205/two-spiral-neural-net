@@ -51,7 +51,8 @@ Both PSO and DE have different parameters that one can experiment on. In this im
 1. **Particle Swarm Optimization** (84.86%)  
 <img  src="http://i.imgur.com/POaz0v1.png" alt="Cost Function" width="400px"> <img src="http://i.imgur.com/YCLmiCE.gif" alt="PSO" width="400px">
 ![Generalization ability of PSO](http://i.imgur.com/JtMGhr8.png)  
-2. **Differential Evolution** *in-progress*  
+2. **Differential Evolution** (84.102%)  
+![Generalization ability of DE](http://i.imgur.com/oEHj0Dh.png)
 3. **Minimize Nonlinear Conjugant Gradient** (100.00%)  
 ![Generalization ability of FMINCG](http://i.imgur.com/SIGJKSa.png)
 
